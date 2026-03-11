@@ -33,3 +33,12 @@ platform clean
 platform generate
 platform config -updatehw {D:/xilinx_workspace/pluto_uart_spi/system_wrapper.xsa}
 platform generate -domains 
+platform clean
+platform generate
+platform config -updatehw {D:/xilinx_workspace/pluto_uart_spi/system_wrapper.xsa}
+platform generate -domains 
+platform clean
+platform generate
+platform clean
+platform clean
+platform generate
